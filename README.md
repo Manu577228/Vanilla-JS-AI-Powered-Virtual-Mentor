@@ -8,7 +8,7 @@ I'm Manu Bharadwaj, always exploring new technologies and creating innovative so
 
 ## Features
 Experience the following features in this project:
-- 📦 HTML, CSS JAVASCRIPT & GEMINI API: Utilize these technologies to create a powerful and interactive virtual mentor experience.
+- 📦 HTML, CSS, JAVASCRIPT & GEMINI API: Utilize these technologies to create a powerful and interactive virtual mentor experience.
 
 ## Getting Started
 To get started with this project, follow these simple steps:
