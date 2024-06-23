@@ -1,4 +1,4 @@
-# Welcome to AI-Powered-Virtual-Mentor App!
+# Welcome to AI-Powered-Virtual-Mentor App! ( Created mainly for GEMINI API DEVELOPER COMPETITION )
 
 Hey there! 👋 I'm Manu Bharadwaj. If you find this project useful or interesting, don't forget to give it a ⭐️!
 
