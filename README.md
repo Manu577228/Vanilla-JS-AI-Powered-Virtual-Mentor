@@ -1,14 +1,14 @@
 # Welcome to AI-Powered-Virtual-Mentor App! 🚀
 **Created mainly for the GEMINI API DEVELOPER COMPETITION**
 
-Hey there! 👋 I'm Manu Bharadwaj, a passionate Software Engineer. Welcome to my AI-Powered-Virtual-Mentor App, designed to showcase the power of HTML, CSS, and JavaScript.
+Hey there! 👋 I'm Manu Bharadwaj, a passionate Software Engineer. Welcome to my AI-Powered-Virtual-Mentor App, designed to showcase the power of HTML, CSS, JavaScript & GEMINI API.
 
 ## About Me
 I'm Manu Bharadwaj, always exploring new technologies and creating innovative solutions.
 
 ## Features
 Experience the following features in this project:
-- 📦 HTML, CSS & JAVASCRIPT: Utilize these technologies to create a powerful and interactive virtual mentor experience.
+- 📦 HTML, CSS JAVASCRIPT & GEMINI API: Utilize these technologies to create a powerful and interactive virtual mentor experience.
 
 ## Getting Started
 To get started with this project, follow these simple steps:
