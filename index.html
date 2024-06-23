@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AI-Powered Virtual Mentor by Bharadwaj</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <script type="importmap">
+      {
+        "imports": {
+          "@google/generative-ai": "https://esm.run/@google/generative-ai"
+        }
+      }
+    </script>
+  </head>
+  <body>
+    <div class="container">
+      <div class="header">
+        <h1>
+          AI-Powered Virtual Mentor by Bharadwaj
+          <img
+            src="https://i.postimg.cc/hP0HLRnx/Manu1-23.jpg"
+            alt="Manu"
+            class="profile-img"
+          />
+        </h1>
+      </div>
+      <div class="mentor z-depth-5">
+        <div class="input-group">
+          <textarea
+            id="question-input"
+            placeholder="Ask your question or share your challenge..."
+            rows="3"
+          ></textarea>
+          <button id="get-advice-btn" class="btn purple darken-4">
+            Get Advice
+          </button>
+        </div>
+        <div id="spinner" class="spinner-wrapper">
+          <div class="spinner"></div>
+        </div>
+        <div id="generated-content" class="generated-content"></div>
+      </div>
+      <footer class="footer">
+        <p>
+          &copy; All rights reserved. AI-Powered Virtual Mentor by
+          <span
+            ><a href="https://youtube.com/@code-with-Bharadwaj"
+              >Bharadwaj</a
+            ></span
+          >
+        </p>
+      </footer>
+    </div>
+    <script type="module" src="index.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+  </body>
+</html>
