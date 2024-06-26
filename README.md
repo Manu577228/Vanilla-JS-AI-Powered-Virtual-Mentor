@@ -1,12 +1,17 @@
 AI-Powered Virtual Mentor by Bharadwaj 🚀
+
 Created mainly for the GEMINI API DEVELOPER COMPETITION
 
-Hey there! 👋 I'm Manu Bharadwaj, a passionate Software Engineer. Welcome to my AI-Powered Virtual Mentor, designed to provide guidance and mentorship using the power of HTML, CSS, JavaScript, and the GEMINI API.
+Hey there! 
+
+👋 I'm Manu Bharadwaj, a passionate Software Engineer. Welcome to my AI-Powered Virtual Mentor, designed to provide guidance and mentorship using the power of HTML, CSS, JavaScript, and the GEMINI API.
 
 About Me
+
 I'm Manu Bharadwaj, always exploring new technologies and creating innovative solutions.
 
 Features
+
 Experience the following features in this project:
 
 📦 HTML, CSS, JAVASCRIPT & GEMINI API: Utilize these technologies to create a powerful and interactive mentorship tool.
